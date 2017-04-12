@@ -3,6 +3,8 @@ KaiAuth is a simple auth plugin for PocketMine-MP(and forks) which has MySQL sup
 
 # TODO
 - Add messages.yml for custom messages
+- Web API integration for MySQL
+- Add `/email`
 
 # Commands
 
