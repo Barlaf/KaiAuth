@@ -1,4 +1,4 @@
-# KaiAuth BETA
+# KaiAuth BETA [![Build Status](https://travis-ci.org/KairusDarkSeeker/KaiAuth.svg?branch=master)](https://travis-ci.org/KairusDarkSeeker/KaiAuth)
 KaiAuth is a simple auth plugin for PocketMine-MP(and forks) which has MySQL support
 
 # TODO
