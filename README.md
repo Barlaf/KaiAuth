@@ -8,7 +8,7 @@ KaiAuth is a simple auth plugin for PocketMine-MP(and forks) which has MySQL sup
 
 | Command | Parameter | Description |
 | :-------: | :-------: | :-------: |
-| /login | password | Login to your account |
-| /register | passwordconfirmPassword | Register an account |
-| /chpwd | oldPasswordnewPassword | Change your account's password |
-| /unregister | nothing | Unregister your account |
+| `/login` | `<password>` | Login to your account |
+| `/register` | `<password> <confirmPassword>` | Register an account |
+| `/chpwd` | `<oldPassword> <newPassword>` | Change your account's password |
+| `/unregister` |  | Unregister your account |
