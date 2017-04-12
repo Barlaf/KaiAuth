@@ -1,0 +1,14 @@
+# Config file for KaiAuth
+# Available data providers: sqlite3, mysql
+data-provider: sqlite3
+
+# For mysql provider only
+mysql-settings:
+  host: "127.0.0.1"
+  port: 3306
+  user: "admin"
+  password: "admin"
+  database: "simpleauth"
+
+# Minimum password length
+min-password-lengthw: 6
